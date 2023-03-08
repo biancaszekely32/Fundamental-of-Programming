@@ -1,0 +1,4 @@
+""""
+DOMAIN
+CLASS FOR SENTENCE
+"""
